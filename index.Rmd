@@ -33,7 +33,7 @@ output:
 |1 | --- | 3:00PM - 3:30PM | Break | --- |
 |1 | 2015-07-08 | 3:30PM - 5:00PM | | Hypothesis testing |
 |---|---|---|---|---|
-|2 | 2015-07-09 | 8:30AM - 10:00AM | | Statistical foundations |
+|2 | 2015-07-09 | 8:30AM - 10:00AM | [html slides](https://slides.com/jeffleek/sisg-m6-d2) [pdf](https://dl.dropbox.com/s/38lqdzetv6bggmq/sisg-m6-d2.pdf)| Statistical foundations |
 |2 | --- | 10:00AM - 10:30AM | Break | --- |
 |2 | 2015-07-09 | 10:30AM - 12:00PM | | Normalization |
 |2 | 2015-07-09 | 1:30PM - 3:00PM | |  Lab session – qvalue, PCA|
