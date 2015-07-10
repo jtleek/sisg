@@ -40,7 +40,7 @@ output:
 |2 | 2015-07-09 | 3:00PM - 3:30PM | Break | Break |
 |2 | --- | 3:30PM - 5:00PM | | Lab session – SNM, edgeR|
 |---|---|---|---|---|
-|3 | 2015-07-09 | 8:30AM - 10:00AM | [pdf]() | RNASeq |
+|3 | 2015-07-09 | 8:30AM - 10:00AM | [pdf](https://www.dropbox.com/s/3lrr3nor98778dl/sisg-md-d3.pdf?dl=0) | RNASeq |
 |3 | --- | 10:00AM - 10:30AM | Break | --- |
 |3 | 2015-07-09 | 10:30AM - 12:00PM |[pdf](https://www.dropbox.com/s/3lrr3nor98778dl/sisg-md-d3.pdf?dl=0)| RNASeq |
 |3 | 2015-07-09 | 1:30PM - 3:00PM | [bioc](https://github.com/genomicsclass/labs/blob/42e539a33a22a90c1caa92ae9598a65c354d4f1c/course4/storage/basic_Bioconductor_infrastructure.Rmd) [i/granges](https://github.com/genomicsclass/labs/blob/42e539a33a22a90c1caa92ae9598a65c354d4f1c/course4/iranges_granges.Rmd) [count based](http://www.bioconductor.org/help/workflows/rnaseqGene/) [ballgown](http://bioconductor.org/packages/release/bioc/vignettes/ballgown/inst/doc/ballgown.html) [derfinder](http://bioconductor.org/packages/release/bioc/vignettes/derfinder/inst/doc/derfinder.html)| Labs/tutorials|
