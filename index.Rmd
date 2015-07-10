@@ -35,15 +35,15 @@ output:
 |---|---|---|---|---|
 |2 | 2015-07-09 | 8:30AM - 10:00AM | [html slides](https://slides.com/jeffleek/sisg-m6-d2) [pdf](https://dl.dropbox.com/s/38lqdzetv6bggmq/sisg-m6-d2.pdf)| Statistical foundations |
 |2 | --- | 10:00AM - 10:30AM | Break | --- |
-|2 | 2015-07-09 | 10:30AM - 12:00PM | | Normalization |
+|2 | 2015-07-09 | 10:30AM - 12:00PM |[html slides](https://slides.com/jeffleek/sisg-m6-d2) [pdf](https://dl.dropbox.com/s/38lqdzetv6bggmq/sisg-m6-d2.pdf) | Normalization |
 |2 | 2015-07-09 | 1:30PM - 3:00PM | |  Lab session – qvalue, PCA|
 |2 | 2015-07-09 | 3:00PM - 3:30PM | Break | Break |
 |2 | --- | 3:30PM - 5:00PM | | Lab session – SNM, edgeR|
 |---|---|---|---|---|
-|3 | 2015-07-09 | 8:30AM - 10:00AM | | RNASeq |
+|3 | 2015-07-09 | 8:30AM - 10:00AM | [pdf]() | RNASeq |
 |3 | --- | 10:00AM - 10:30AM | Break | --- |
-|3 | 2015-07-09 | 10:30AM - 12:00PM | | RNASeq |
-|3 | 2015-07-09 | 1:30PM - 3:00PM | |  Advanced topics|
+|3 | 2015-07-09 | 10:30AM - 12:00PM |[pdf](https://www.dropbox.com/s/3lrr3nor98778dl/sisg-md-d3.pdf?dl=0)| RNASeq |
+|3 | 2015-07-09 | 1:30PM - 3:00PM | [bioc](https://github.com/genomicsclass/labs/blob/42e539a33a22a90c1caa92ae9598a65c354d4f1c/course4/storage/basic_Bioconductor_infrastructure.Rmd) [i/granges](https://github.com/genomicsclass/labs/blob/42e539a33a22a90c1caa92ae9598a65c354d4f1c/course4/iranges_granges.Rmd) [count based](http://www.bioconductor.org/help/workflows/rnaseqGene/) [ballgown](http://bioconductor.org/packages/release/bioc/vignettes/ballgown/inst/doc/ballgown.html) [derfinder](http://bioconductor.org/packages/release/bioc/vignettes/derfinder/inst/doc/derfinder.html)| Labs/tutorials|
 |3 | 2015-07-09 | 3:00PM - 3:30PM | Break | Break |
 |3 | --- | 3:30PM - 5:00PM | | eQTL|
 
